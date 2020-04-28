@@ -1,6 +1,6 @@
 # Web-Data-Miner
 
-Chrome extension. HTML, CSS, JS, Chrome Extension API
+Chrome extension. HTML, CSS, JS, Chrome Extension APIs
 
 A simple extension to run your javascript in every web site you want.
 Use console.log() function to appear the results in a panel.
@@ -18,6 +18,7 @@ console.log("<colors>");
   });
 console.log("</colors>")
 ```
+The results will appear in the panel so you can copy and paste them in a file.
 
 ## How to install it
 Download the project. Unzip the folder. Open the Chrome browser. Go to Chrome menu > More Tools > Extensions. Enable the "Developer mode" (top right). Click on "Load unpacked". Select the project's folder with name "source". Use the extension. 
@@ -25,7 +26,7 @@ Download the project. Unzip the folder. Open the Chrome browser. Go to Chrome me
 
 ## How to use it
 Click on extension's popup (a red square in Chrome toolbar). Upload your file or write your code in text area. Click on corresponding button. Your code will run and the results will appear in a panel. Use console.log function to appear the results you want in the panel. 
-If the panel does not contain anything check if you have use console.log function else check the browser's console for errors.
+If the panel does not contain anything check if you have use console.log function else check the browser's console for errors. Use the "Copy results" button to copy the results to clipboard.
 
 
 ## Future additions (contributions and suggestions are welcomed)
