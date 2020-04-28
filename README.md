@@ -39,7 +39,7 @@ If the panel does not contain anything check if you have use console.log functio
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments 
-* Thanks to all the users of [Stack Overflow](https://www.stacoverflow.com)
+* Thanks to all the users of [Stack Overflow](https://www.stackoverflow.com)
 * Thanks to:
   * [Arun P Johny](https://stackoverflow.com/questions/20256760/javascript-console-log-to-html)
   * [adeneo](https://stackoverflow.com/questions/24050738/javascript-how-to-dynamically-move-div-by-clicking-and-dragging)
