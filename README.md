@@ -46,6 +46,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   * [Angelos Chalaris](https://hackernoon.com/copying-text-to-clipboard-with-javascript-df4d4988697f)
   * [Eric Bidelman](https://www.html5rocks.com/en/tutorials/file/dndfiles/)
   * [Matt West](https://mattwest.design/reading-files-with-filereader/)
-### Date of first release: 28/04/2020
+### Date of release: 28/04/2020
 
 
