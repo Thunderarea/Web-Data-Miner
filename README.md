@@ -6,7 +6,7 @@ A simple extension to run your javascript in every web site you want.
 Use console.log() function to appear the results in a panel.
 Copy the results and use them.
 
-Example: You want to create an XML file with HTML color names and their HEX codes and you can't find one in this format. So, you can go to [W3Schools Color Names](https://www.w3schools.com/colors/colors_hex.asp) and run the following code from extension:
+Example: You want to create an XML file with HTML color names and their HEX codes and you can't find one in this format. So, you can go to [W3Schools Color Names](https://www.w3schools.com/colors/colors_hex.asp) and run the following code from the extension's popup:
 ```
 const colors = document.querySelectorAll(".colorbox");
 console.log("<colors>");
