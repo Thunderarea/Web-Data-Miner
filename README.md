@@ -35,7 +35,7 @@ If the panel does not contain anything check if you have use console.log functio
 * Publication on Chrome Web store
 
 ## Licence 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments 
 * Thanks to all the users of [Stack Overflow](https://www.stacoverflow.com)
