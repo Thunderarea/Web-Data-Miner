@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <style media="screen">
+    body {
+      font-size: 15px;
+    }
+    body * {
+      display: block;
+    }
+    textarea {
+      width: 100%;
+      font-size: 12px;
+      border: 1px solid;
+      resize: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="container">
+    Select a js file to upload:</br>
+    <input type="file" id="files" size="50">
+    <button type="button" name="runFilesCode">Run file's code</button>
+    <br>Write your code below:</br>
+    <textarea id="codeTextarea" rows="10" placeholder="Write your js code here..."></textarea>
+    <button type="button" name="runTextareasCode">Run code</button>
+  </div>
+  <script src="popup.js"></script>
+</body>
+
+</html>

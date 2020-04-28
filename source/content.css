@@ -1,0 +1,65 @@
+:root {
+  --header-height: 20px;
+}
+
+div#panel_wdmthunderarea {
+  position: fixed;
+  background-color: floralwhite;
+  z-index: 10000;
+  top: 10px;
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.61) 1px 3px 12px 0px, white 0px 1px 8px 2px;
+}
+
+#header_wdmthunderarea {
+  height: var(--header-height);
+  width: 100%;
+  background-color: lightgrey;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+#closePanelButton_wdmthunderarea {
+  cursor: pointer;
+  color: black;
+  padding: 0 5px;
+  line-height: var(--header-height);
+}
+
+#closePanelButton_wdmthunderarea::before {
+  content: "x";
+}
+
+#moveBar_wdmthunderarea {
+  width: 100%;
+  cursor: move;
+}
+
+#textarea_wdmthunderarea {
+  padding: 5px;
+  background-color: white;
+  overflow: auto;
+  width: 300px;
+  min-height: 100px;
+  max-height: 80vh;
+  height: -webkit-fill-available;
+  resize: none;
+  border: none;
+  font-family: serif;
+  font-size: 15px;
+}
+
+#copyButton_wdmthunderarea {
+  width: 100%;
+  text-align: center;
+  background-color: lightblue;
+  padding: 4px 0;
+  cursor: pointer;
+  font-family: serif;
+  font-size: 15px;
+}
+
+#copyButton_wdmthunderarea::before {
+  content: "Copy results";
+}
