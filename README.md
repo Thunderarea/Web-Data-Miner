@@ -16,7 +16,7 @@ console.log("<colors>");
     console.log("     <hex>"+color.querySelector("span.colorhexspan").textContent+"</hex>");
     console.log("  </color>");
   });
-console.log("</colors>")
+console.log("</colors>");
 ```
 The results will appear in the panel so you can copy and paste them in a file.
 
@@ -25,7 +25,7 @@ Download the project. Unzip the folder. Open the Chrome browser. Go to Chrome me
 *If you change the extension's code reload the extension before use it.*
 
 ## How to use it
-Click on extension's popup (a red square in Chrome toolbar). Upload your file or write your code in text area. Click on corresponding button. Your code will run and the results will appear in a panel. Use console.log function to appear the results you want in the panel. 
+Click on extension's popup (a red square in Chrome toolbar). Upload your file or write your code in the text area. Click on corresponding button. Your code will run and the results will appear in a panel. Use console.log function to appear the results you want in the panel. 
 If the panel does not contain anything check if you have use console.log function else check the browser's console for errors. Use the "Copy results" button to copy the results to clipboard.
 
 
