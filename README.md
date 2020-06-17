@@ -2,7 +2,7 @@
 
 Chrome extension. HTML, CSS, JS, Chrome Extension APIs
 
-A simple extension to run your javascript in every web site you want.
+A simple extension to run your javascript in any web site you want.
 Use console.log() function to appear the results in a panel.
 Copy the results and use them.
 
